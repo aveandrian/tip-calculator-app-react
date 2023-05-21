@@ -20,4 +20,4 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://github.com/aveandrian/tip-calculator-app-react/assets/13519212/6525fe29-11fb-4db5-9254-b3409141dfc5)
